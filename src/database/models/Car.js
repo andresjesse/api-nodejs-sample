@@ -13,6 +13,6 @@ const init = async () => {
   await Car.sync();
 };
 
-init();
+//init();
 
 module.exports = Car;
